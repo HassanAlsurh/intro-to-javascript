@@ -7,3 +7,5 @@ const num = 210;
 
 Cup = "";
 console.log(Cup +" "+ num);
+
+console.log(`You have ${num} Coins`)
